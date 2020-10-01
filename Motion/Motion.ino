@@ -63,7 +63,7 @@ void loop(){
       count++;
       //digitalWrite(Status, LOW);
       Serial.println("Motion detected! through 1");
-      delay(1000);
+      delay(2000);
     }
 
 
